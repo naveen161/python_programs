@@ -3,3 +3,4 @@ print("reverse the list ", l.reverse())
 print("print before sorting ", l)
 l.sort()
 print("list after sorting ", l)
+return 0
